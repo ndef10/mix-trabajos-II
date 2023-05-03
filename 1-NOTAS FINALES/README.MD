@@ -57,7 +57,7 @@ el ejercicio. (2 Puntos)
 (2 Puntos)
 
 ## Demo del sitio web
-Puede ver una demo del sitio web en el siguiente enlace: ()
+Puede ver una demo del sitio web en el siguiente enlace: (https://www.loom.com/share/6d196fa573c24bccbb511acf776c7e31)
 
 ¡Gracias por visitar nuestro sitio!
 
